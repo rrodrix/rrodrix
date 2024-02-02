@@ -1,4 +1,4 @@
-## Bem-vinde ao perfil do rrodrix! 😁
+## Bem-vinde ao perfil do rrodrix. 😁
 
  <div>
    <a href="https://github.com/rrodrix">
